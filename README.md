@@ -78,20 +78,6 @@ Three plausible explanations, each worth further investigation:
 
 ---
 
-## Repository Structure
-reddit-argument-persuasion/
-├── notebooks/
-│   ├── 01_data_collection.ipynb      # PRAW scraping + EDA
-│   └── 02_hypothesis_testing.ipynb   # Classification + stats
-├── data/
-│   └── reddit_comments_12b3qwq.csv   # Scraped comment data
-├── outputs/                          # Generated figures
-├── gephi/                            # Network files (in progress)
-├── .env.example                      # Credential template
-├── requirements.txt
-└── README.md
----
-
 ## Setup
 
 ```bash
