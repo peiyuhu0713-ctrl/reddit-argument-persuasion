@@ -1,0 +1,10 @@
+praw==7.8.1
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+vaderSentiment
+wordcloud
+python-dotenv
